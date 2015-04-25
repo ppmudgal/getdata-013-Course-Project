@@ -33,6 +33,6 @@ To run the analysis, perform the following steps:
 
 5) Finally, execute run.analysis() in R.
 
-6) The Tidy data set under the name Tidy_Data.txt
+6) The Tidy data set is created under the name Tidy_Data.txt
 
 
