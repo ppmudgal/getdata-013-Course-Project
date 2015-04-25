@@ -65,5 +65,5 @@ run.analysis<-function(){
       #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
       
       #writing the tidy dataset into Tidy_Data.txt
-      write.table(CombinedTidy, "./UCI HAR Dataset/Tidy_Data.txt", sep="\t",row.names = F)
+      write.table(CombinedTidy, "./Tidy_Data.txt", sep="\t",row.names = F)
 }
